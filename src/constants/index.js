@@ -2,8 +2,7 @@ export const myProjects = [
   {
     id: 1,
     title: "E-commerce Platform",
-    description:
-      "Facilitates purchases from international websites like Amazon and eBay, allowing customers to shop from these sites and have products delivered domestically.",
+    description: "Facilitates purchases from international websites like Amazon and eBay, allowing customers to shop from these sites and have products delivered domestically.",
     subDescription: [
       "Built a scalable application with ASP.NET Core MVC, integrating global platforms like Amazon for domestic delivery.",
       "Implemented secure authentication and database management using ASP.NET Core Identity and Entity Framework Core.",
@@ -39,8 +38,7 @@ export const myProjects = [
   {
     id: 2,
     title: "Authentication & Authorization System",
-    description:
-      "A secure authentication and authorization system using Auth0 for seamless user management.",
+    description: "A secure authentication and authorization system using Auth0 for seamless user management.",
     subDescription: [
       "Integrated Auth0 for authentication, supporting OAuth, JWT, and multi-factor authentication.",
       "Implemented role-based access control (RBAC) for fine-grained user permissions.",
@@ -76,8 +74,7 @@ export const myProjects = [
   {
     id: 3,
     title: "Blazor Web App",
-    description:
-      "A modern, interactive web application built with Blazor WebAssembly and .NET Core.",
+    description: "A modern, interactive web application built with Blazor WebAssembly and .NET Core.",
     subDescription: [
       "Developed a fully interactive Single Page Application (SPA) using Blazor WebAssembly.",
       "Implemented API interactions using .NET Core for a robust backend.",
@@ -113,8 +110,7 @@ export const myProjects = [
   {
     id: 4,
     title: "C++ Game Engine",
-    description:
-      "A lightweight C++ game engine designed for 2D and 3D game development.",
+    description: "A lightweight C++ game engine designed for 2D and 3D game development.",
     subDescription: [
       "Built a powerful rendering engine using OpenGL and C++.",
       "Developed a physics engine with collision detection and particle effects.",
@@ -150,8 +146,7 @@ export const myProjects = [
   {
     id: 5,
     title: "WordPress Custom Theme",
-    description:
-      "A fully customizable WordPress theme optimized for performance and SEO.",
+    description: "A fully customizable WordPress theme optimized for performance and SEO.",
     subDescription: [
       "Developed a responsive WordPress theme using HTML5, CSS3, and JavaScript.",
       "Integrated Tailwind CSS for modern styling and UI enhancements.",
@@ -187,8 +182,7 @@ export const myProjects = [
   {
     id: 6,
     title: "Online Learning Platform",
-    description:
-      "A web application that allows users to enroll in courses, watch video lectures, and take quizzes.",
+    description: "A web application that allows users to enroll in courses, watch video lectures, and take quizzes.",
     subDescription: [
       "Built using Blazor WebAssembly for a seamless SPA experience.",
       "Implemented video streaming with Azure Media Services.",
@@ -231,12 +225,12 @@ export const mySocials = [
   },
   {
     name: "Linkedin",
-    href: "https://www.linkedin.com/in/ali-sanati/",
+    href: "https://www.linkedin.com/in/fesriharis/",
     icon: "/assets/socials/linkedIn.svg",
   },
   {
     name: "Instagram",
-    href: "https://www.instagram.com/ali.sanatidev/reels/",
+    href: "https://www.instagram.com/fesri_haris",
     icon: "/assets/socials/instagram.svg",
   },
 ];
@@ -270,10 +264,7 @@ export const experiences = [
     title: "Freelance Developer",
     job: "Self-Employed",
     date: "2025-Present",
-    contents: [
-      "Created a personal portfolio using Three.js, React, Vite, and WebAPI to showcase technical expertise.",
-      "Continuously enhancing technical skills and expanding expertise in modern web development and back-end technologies.",
-    ],
+    contents: ["Created a personal portfolio using Three.js, React, Vite, and WebAPI to showcase technical expertise.", "Continuously enhancing technical skills and expanding expertise in modern web development and back-end technologies."],
   },
 ];
 export const reviews = [
