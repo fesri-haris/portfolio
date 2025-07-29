@@ -64,13 +64,13 @@ const Contact = () => {
             <label htmlFor="name" className="feild-label">
               Full Name
             </label>
-            <input id="name" name="name" type="text" className="field-input field-input-focus" placeholder="John Doe" autoComplete="name" value={formData.name} onChange={handleChange} required />
+            <input id="name" name="name" type="text" className="field-input field-input-focus" placeholder="Hakuna Matata" autoComplete="name" value={formData.name} onChange={handleChange} required />
           </div>
           <div className="mb-5">
             <label htmlFor="email" className="feild-label">
               Email
             </label>
-            <input id="email" name="email" type="email" className="field-input field-input-focus" placeholder="JohnDoe@email.com" autoComplete="email" value={formData.email} onChange={handleChange} required />
+            <input id="email" name="email" type="email" className="field-input field-input-focus" placeholder="hakunamatata@email.com" autoComplete="email" value={formData.email} onChange={handleChange} required />
           </div>
           <div className="mb-5">
             <label htmlFor="message" className="feild-label">
