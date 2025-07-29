@@ -29,7 +29,7 @@ const HeroText = () => {
       {/* Mobile View */}
       <div className="flex- flex-col space-y-6 md:hidden">
         <motion.p className="text-4xl font-medium" variants={variants} initial="hidden" animate="visible" transition={{ delay: 1 }}>
-          Hi,I'm Ali
+          Hi,I'm Fesri
         </motion.p>
         <div>
           <motion.p className="text-5xl font-black text-neutral-300" variants={variants} initial="hidden" animate="visible" transition={{ delay: 1.2 }}>
